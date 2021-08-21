@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AppExerc2</string>
+    <string name="texto1">Kenneth Thompson (Nova Orleães, 4 de fevereiro de 1943) é um cientista da computação,  conhecido pela sua influência na criação do sistema operacional UNIX, pela invenção da linguagem de programação B,  antecessora da linguagem de programação C.  Originalmente contratado em 1966 para trabalhar no projeto Multics da Bell Labs,  Thompson conheceu Dennis Ritchie e trabalhou junto com Ritchie para criar o sistema operacional UNIX.  Thompson também criou a linguagem de programação B, uma precursora da linguagem C de Dennis Ritchie.  Thompson também é conhecido por outros trabalhos, como o sistema operacional Plan 9,  suas contribuições na definição da codificação de caracteres UTF-8, tabelas finais e a máquina de xadrez Belle.  Desde 2006, está trabalhando na empresa Google, onde co-inventou a linguagem de programação Go.</string>
+    <string name="texto3">Origem: Wikipédia, a enciclopédia livre.</string>
+    <string name="texto4">Cientista da computação</string>
+    <string name="texto2">Brian Kernighan (Toronto, 1942) é um cientista da computação canadense.  Trabalhou nos laboratórios Bell e contribuiu em trabalho pioneiro para  o desenvolvimento das linguagens de programação AWK e AMPL.  O nome de Brian Kernighan tornou-se conhecido por ser o co-autor do  primeiro livro sobre a linguagem de programação C com Dennis Ritchie.  Kernighan teria dito que não contribuiu para o desenvolvimento da  linguagem C: \"O trabalho foi todo do Dennis Ritchie\". Ele foi autor de  vários programas de UNIX, incluindo ditroff.   Nasceu em Toronto, Canadá, e concluiu o seu bacharelato em  \"Engenharia Física\" na Universidade de Toronto. Obteve o seu  doutoramento em Engenharia Electrotécnica na Universidade de Princeton,  onde desde de 2004 é professor no departamento de Ciência da Computação.</string>
+    <string name="computer_scientist">Cientista da computação</string>
+    <string name="from_wikipedia_the_free_encyclopedia">Origem: Wikipédia, a enciclopédia livre.</string>
+</resources>
